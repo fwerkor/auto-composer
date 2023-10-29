@@ -1,8 +1,7 @@
-# **CapAI-Compose Project**
+# **CapAI-Composer Project**
 
 *Powered by FWERKOR Team, especially by Castronaut.*
 
-目前本项目还处于开发的起始阶段，暂时不开放源代码，可能长期闭源。
 
 
 

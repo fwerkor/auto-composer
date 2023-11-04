@@ -1,4 +1,4 @@
-# **CapAI-Composer Project**
+# **Auto Composer Project**
 
 *Powered by FWERKOR Team, especially by Castronaut.*
 
